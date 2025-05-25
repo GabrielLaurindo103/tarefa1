@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2a017a-fadd-4d25-b0bd-7152559ceb15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Contratacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Hospedagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ItemPacote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/LocacaoVeiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Localidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Pacote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/TransladoAereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa1.iml" afterDir="false" />
+    <list default="true" id="4e2a017a-fadd-4d25-b0bd-7152559ceb15" name="Changes" comment="Primeito Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +58,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748208927724</updated>
-      <workItem from="1748208928883" duration="2900000" />
+      <workItem from="1748208928883" duration="3755000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeito Commit">
+      <option name="closed" value="true" />
+      <created>1748212324978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748212324978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeito Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeito Commit" />
   </component>
 </project>
